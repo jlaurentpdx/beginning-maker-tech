@@ -1,7 +1,7 @@
 # Welcome to Beginning Maker Techniques and Technology!
 
-###Instructor: Jordan Laurent 
-###Contact: jordan.laurent@pcc.edu
+### Instructor: Jordan Laurent 
+### Contact: jordan.laurent@pcc.edu
 
 ## Week 1: January 7-11, 2019
 
