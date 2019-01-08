@@ -14,3 +14,10 @@ This week, we will begin with [Arduino](https://www.arduino.cc/) - the open-sour
   * [Tutorials for Built-in Examples](https://www.arduino.cc/en/Tutorial/BuiltInExamples)
 * [Breadboard Connections](http://brunswickhackerspace.com/wp-content/uploads/2016/10/breadboard.png)
 * [Resistor Color Codes: 4- and 5-band](https://www.build-electronic-circuits.com/wp-content/uploads/2016/07/resistor-color-codes.jpg)
+
+* Sparkfun Self-Guided Tutorials
+  * [Experiment 1: LED](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32/experiment-1-blinking-an-led)
+  * [Experiment 2: Potentiometer](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32/experiment-2-reading-a-potentiometer)
+  * [Experiment 3: RGB LED](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32/experiment-3-driving-an-rgb-led)
+  * [Experiment 4: Multiple LEDs](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32/experiment-4-driving-multiple-leds)
+  * [Experiment 5: Pushbutton](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32/experiment-5-push-buttons)
