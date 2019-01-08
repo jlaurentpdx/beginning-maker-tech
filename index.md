@@ -9,6 +9,6 @@ This week, we will begin with [Arduino](https://www.arduino.cc/) - the open-sour
 
 * [Arduino](https://www.arduino.cc/)
   * [Tutorials for Built-in Examples](https://www.arduino.cc/en/Tutorial/BuiltInExamples)
-  * Anatomy of the Arduino UNO
+  * [Anatomy of the Arduino UNO](https://github.com/jlaurentpdx/beginning-maker-tech/blob/gh-pages/ELEGOO_outlinev1.png?raw=true)
   * [Starter Kit Documentation](https://drive.google.com/open?id=1dFretZhmzl1jESqOIuLNfyv2Ab68hk5N)
 * [Breadboard Connections](http://brunswickhackerspace.com/wp-content/uploads/2016/10/breadboard.png)
