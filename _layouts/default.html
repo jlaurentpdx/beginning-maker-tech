@@ -25,10 +25,6 @@
         <p><a href="https://jlaurentpdx.github.io/beginning-maker-tech/week1">Week 1: Jan 7-11</a>
         <br><a href="https://jlaurentpdx.github.io/beginning-maker-tech/week2">Week 2: Jan 14-18</a></p>
 
-        {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-        {% endif %}
-
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
@@ -49,6 +45,7 @@
       <footer>
         {% if site.github.is_project_page %}
         <p>Project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}
         {% endif %}
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
