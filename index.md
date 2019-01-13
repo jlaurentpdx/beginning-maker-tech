@@ -3,4 +3,7 @@
 ### Instructor: Jordan Laurent 
 ### Contact: <jordan.laurent@pcc.edu>
 
-**[Week 1 &rarr;](https://jlaurentpdx.github.io/beginning-maker-tech/week1)**
+##
+##
+
+**[Continue to Week 1 &rarr;](https://jlaurentpdx.github.io/beginning-maker-tech/week1)**
