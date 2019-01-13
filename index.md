@@ -22,4 +22,4 @@ This week, we will begin with [Arduino](https://www.arduino.cc/) - the open-sour
   * [Experiment 4: Multiple LEDs](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32/experiment-4-driving-multiple-leds)
   * [Experiment 5: Pushbutton](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32/experiment-5-push-buttons)
 
-**[Week 1 &rarr;](https://jlaurentpdx.github.io/beginning-maker-tech/week1)**
+**[Home](https://jlaurentpdx.github.io/beginning-maker-tech/)** | **[Week 1 &rarr;](https://jlaurentpdx.github.io/beginning-maker-tech/week1)**
