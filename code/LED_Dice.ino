@@ -57,9 +57,11 @@ void loop() {
   lastButton = currentButton;
 
   if (toggle){
-    digitalWrite(led, LOW);
+    for(int i = 0; i < sizeof(led); i++){
+      digitalWrite(led[i], LOW);
+    }
     int result = runRandom();
-    analogWrite(led[4], 255);
+    analogWrite(led[result], 255);
     Serial.println(result+1);
   } 
 }
