@@ -47,7 +47,7 @@ bool debounce(bool last)
 void loop() 
 {  
   currentButton = debounce(lastButton);  
-  if (lastButton != currentButton && lastButton == LOW)    // If the button was pressed,
+  if (lastButton != currentButton)    // If the button was pressed,
   {   
     toggle = !toggle;                 // toggle the button's state
   }
