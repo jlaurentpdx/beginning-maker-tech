@@ -4,7 +4,7 @@
 
 [Resistor Color Codes: 4- and 5-band](https://www.build-electronic-circuits.com/wp-content/uploads/2016/07/resistor-color-codes.jpg)
 
-[ELEGOO Start Kit Information + Tutorials](https://docs.google.com/document/d/1e7PoARO209aIGRqjKJAYFFS_Uzi2gXuj1JIoLI_I7FU/edit)
+[ELEGOO Starter Kit Information + Tutorials](https://docs.google.com/document/d/1e7PoARO209aIGRqjKJAYFFS_Uzi2gXuj1JIoLI_I7FU/edit)
 
 ## Terms and definitions
 
@@ -21,3 +21,9 @@
   * **""( )""**: opening and closing _parentheses_ follow a function name, and often include arguments for a function to use
   * **""{ }""**: opening and closing _curly brackets_ contain instructions for functions setup() and loop() as well as other special functions
   * **";"**: the _semicolon_ closes a line of code and informs the computer to move on to the next instruction
+
+## Code for Potentiometer, Pushbutton, and LED Dice
+
+* [Read Potentiometer](https://raw.githubusercontent.com/jlaurentpdx/beginning-maker-tech/gh-pages/code/Read_Potentiometer.ino)
+* [Pushbutton Toggle](https://raw.githubusercontent.com/jlaurentpdx/beginning-maker-tech/gh-pages/code/Pushbutton_Toggle.ino)
+* [LED Dice](https://raw.githubusercontent.com/jlaurentpdx/beginning-maker-tech/gh-pages/code/LED_Dice.ino)
