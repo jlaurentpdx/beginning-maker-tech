@@ -48,7 +48,7 @@ void loop()
   lcd.setCursor(0, 1);
   
   currentButton = debounce(lastButton);  
-  if (lastButton != currentButton)    // If the button was pressed,
+  if (lastButton != currentButton && currentButton == LOW)    // If the button was pressed,
   {   
     toggle = !toggle;                 // toggle the button's state
   }
