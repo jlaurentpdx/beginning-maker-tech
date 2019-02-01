@@ -1,16 +1,11 @@
-# Journal Entries
-
-[Week 4](https://jlaurentpdx.github.io/beginning-maker-tech/docs/Week4_Journal.docx)
-
 # Resources
 
-[Breadboard Connections](http://brunswickhackerspace.com/wp-content/uploads/2016/10/breadboard.png)
-
-[Resistor Color Codes: 4- and 5-band](https://www.build-electronic-circuits.com/wp-content/uploads/2016/07/resistor-color-codes.jpg)
-
+## Fundamental Electronics
+[Breadboard Connections](http://brunswickhackerspace.com/wp-content/uploads/2016/10/breadboard.png)<br>
+[Resistor Color Codes: 4- and 5-band](https://www.build-electronic-circuits.com/wp-content/uploads/2016/07/resistor-color-codes.jpg)<br>
 [ELEGOO Starter Kit Information + Tutorials](https://docs.google.com/document/d/1e7PoARO209aIGRqjKJAYFFS_Uzi2gXuj1JIoLI_I7FU/edit)
 
-## Terms and definitions
+## Coding Terms and definitions
 
 * **Variables**: a method to store numerical information as a word, such as led = 13
   * **int**: a whole number value, such as 1, 13, or -5
@@ -26,8 +21,7 @@
   * **""{ }""**: opening and closing _curly brackets_ contain instructions for functions setup() and loop() as well as other special functions
   * **";"**: the _semicolon_ closes a line of code and informs the computer to move on to the next instruction
 
-## Code for Potentiometer, Pushbutton, and LED Dice
+## Arduino Copy-Paste Code
 
 * [Read Potentiometer](https://raw.githubusercontent.com/jlaurentpdx/beginning-maker-tech/gh-pages/code/Read_Potentiometer.ino)
 * [Pushbutton Toggle](https://raw.githubusercontent.com/jlaurentpdx/beginning-maker-tech/gh-pages/code/Pushbutton_Toggle.ino)
-* [LED Dice](https://raw.githubusercontent.com/jlaurentpdx/beginning-maker-tech/gh-pages/code/LED_Dice.ino)
