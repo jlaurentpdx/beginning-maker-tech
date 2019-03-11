@@ -5,4 +5,4 @@
 
 This work experience course is being offered through the Opening Doors Project at Portland Community College. For any information regarding the course content, schedule, or materials, please email the instructor at <jordan.laurent@pcc.edu>.
 
-**[Continue to Week 9 &rarr;](https://jlaurentpdx.github.io/beginning-maker-tech/week/9)**
+**[Continue to Week 9-10 &rarr;](https://jlaurentpdx.github.io/beginning-maker-tech/week/9)**
